@@ -21,15 +21,25 @@ keyboard
 - testSending
 
 imports PadGen2D/3D:
+
 matplotlib			                3.7.1
+
 enum
+
 numpy				                    1.24.3
+
 open3d				                  0.17.0
+
 cv2(opencv-python)		          4.7.0.72
+
 pyrealsense2			              2.54.2.5684
+
 csv
+
 heapq
+
 copy
+
 
 imports CameraHandling:
 math
