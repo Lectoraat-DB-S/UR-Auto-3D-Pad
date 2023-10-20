@@ -56,11 +56,13 @@ This is adapted code that was originally made by LaurentBimont from: https://git
 
 It was downloaded/adapted on the 17th of april
 
+
 CameraHandling.py
 
 This is adapted code that was originally made by leggedrobotics from: https://github.com/leggedrobotics/librealsense-rsl/blob/master/wrappers/python/examples/opencv_pointcloud_viewer.py
 
 It was downloaded/adapted on the 17th of april
+
 
 RTDE folder
 
