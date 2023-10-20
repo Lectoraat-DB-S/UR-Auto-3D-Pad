@@ -50,14 +50,14 @@ csv
 
 reference
 testSending.py
-# This is adapted code that was originally made by LaurentBimont from:
-# https://github.com/LaurentBimont/RTDE-URx/tree/master
-# It was downloaded/adapted on the 17th of april
+This is adapted code that was originally made by LaurentBimont from:
+https://github.com/LaurentBimont/RTDE-URx/tree/master
+It was downloaded/adapted on the 17th of april
 
 CameraHandling.py
-# This is adapted code that was originally made by leggedrobotics from:
-# https://github.com/leggedrobotics/librealsense-rsl/blob/master/wrappers/python/examples/opencv_pointcloud_viewer.py
-# It was downloaded/adapted on the 17th of april
+This is adapted code that was originally made by leggedrobotics from:
+https://github.com/leggedrobotics/librealsense-rsl/blob/master/wrappers/python/examples/opencv_pointcloud_viewer.py
+It was downloaded/adapted on the 17th of april
 
 RTDE folder
 https://github.com/UniversalRobots/RTDE_Python_Client_Library/tree/main/rtde
